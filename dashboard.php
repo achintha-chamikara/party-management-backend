@@ -63,7 +63,9 @@ if (!isset($_SESSION['user'])) {
             <div class="image-text">Welcome to VIBEMAKERS</div>
             <div class="image-text2">Crafting the perfect party atmosphere</div>
         </div>
-
+        <button class="admin-login-btn" onclick="window.location.href='adminsignin.php'">
+            Admin Login
+        </button>
         
 
         <script src="script.js"></script>

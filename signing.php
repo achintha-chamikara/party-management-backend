@@ -93,15 +93,8 @@ $errors = []; // Example error list
 
                 <button type="submit">Continue</button>
             </form>
-
-            <div class="divider">or use one of these options</div>
-
-            <!-- Social Login Buttons -->
-            <div class="social-buttons">
-                <button class="google-btn">G</button>
-                <button class="apple-btn"></button>
-                <button class="facebook-btn">f</button>
-            </div>
+            <p class="register-link">Don't have an account? <a href="register.php">Register here</a></p>
+            
 
             <!-- Footer -->
             <footer>

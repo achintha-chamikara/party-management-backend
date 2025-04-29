@@ -128,13 +128,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <button type="submit">Register</button>
             </form>
 
-            <div class="divider">or sign up using</div>
-
-            <div class="social-buttons">
-                <button class="google-btn">G</button>
-                <button class="apple-btn"></button>
-                <button class="facebook-btn">f</button>
-            </div>
+           
 
             <footer>
                 <p>By registering, you agree to our 

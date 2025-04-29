@@ -264,3 +264,20 @@ img {
 .close-btn:hover {
     background-color: #999;
 }
+
+.admin-login-btn {
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    background-color: #050805; 
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.admin-login-btn:hover {
+    background-color: #45a049; 
+}
